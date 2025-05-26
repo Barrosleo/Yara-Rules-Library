@@ -11,6 +11,7 @@ This document provides detailed information for each custom Yara rule.
   ```bash
   yara -r rules/malware_rule1.yar samples/sample_file1.exe
   ```
+
 ## malware_rule2.yar
 - **Purpose:**
   Identifies malicious payloads associated with C2 communications.
@@ -19,8 +20,9 @@ This document provides detailed information for each custom Yara rule.
 - **Usage Example:**
   ```bash
   yara -r rules/malware_rule2.yar samples/sample_file2.exe
-  forensics_rule1.yar
   ```
+
+  ## forensics_rule1.yar
 - **Purpose:**
   Detects forensic artifacts from data exfiltration tools.
 - **Description:**
