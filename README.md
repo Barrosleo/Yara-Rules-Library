@@ -72,7 +72,7 @@ A Jupyter Notebook in the `notebooks/` directory that walks through Yara rule cr
 
 1. **Clone the repository:**
   ```bash
-  git clone https://github.com/YourGitHubUsername/Yara-Rules-Library.git
+  git clone https://github.com/Barrosleo/Yara-Rules-Library.git
   cd Yara-Rules-Library
   ```
 
